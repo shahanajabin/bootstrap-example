@@ -1,6 +1,9 @@
 img.slide {
 	height: 800px;
 }
-.a.navbar-brand.text-white {
-	font-family: fantasy;
+.font-family {
+	font-family: monospace;
+}
+.row-font {
+	font-family: Georgia;
 }
